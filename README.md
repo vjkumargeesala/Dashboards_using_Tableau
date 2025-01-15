@@ -12,7 +12,7 @@ This repo includes:
 
 ## 📋 Dashboards Included
 
-### 1. 🦠 COVID Dashboard
+### 1. 🦠 [COVID Dashboard](https://public.tableau.com/app/profile/vijay.kumar.geesala/viz/covid_DashBoard/Story1)
 - **Description**: Overview of 🕊️ deaths, 🔴 active cases, and 🟢 cured cases during the COVID-19 pandemic.
 - **Key Features**: Interactive 📈 charts and trends for quick ⏩ analysis of the pandemic's 🌍 impact.
 - **Dataset**: Includes publicly 📂 available COVID-19 datasets.
